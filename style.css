@@ -1,0 +1,37 @@
+body{
+	background-color: black;
+}
+
+
+h1{
+color: black;	
+background-color: e2e2e2;
+border: white solid 15px;
+padding: 20px;
+margin: 20px;
+}
+
+
+
+h4{
+color: white;
+background-color:808080;
+font: italic 600% ;
+border: white solid 15px;
+padding: 20px;
+margin: 20px;
+}
+
+p{
+background-color:e2e2e2;
+font: 150% fantasy;
+border: white solid 5px;
+margin: 10px;
+}
+
+img{
+float:center;
+border: white solid 15px;
+padding: 20px;
+margin: 20px;
+}
